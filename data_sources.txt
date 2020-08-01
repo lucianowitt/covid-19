@@ -1,0 +1,35 @@
+
+ ECDC - European Centre for Disease Prevention and Control
+
+ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+
+ https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-2020-07-24.xlsx
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+ The World Bank
+ 
+ https://data.worldbank.org
+
+ http://api.worldbank.org/v2/en/indicator/SP.POP.0014.TO?downloadformat=csv
+ http://api.worldbank.org/v2/en/indicator/SP.POP.1564.TO?downloadformat=csv
+ http://api.worldbank.org/v2/en/indicator/SP.POP.65UP.TO.ZS?downloadformat=csv
+ http://api.worldbank.org/v2/en/indicator/SP.POP.TOTL?downloadformat=csv
+ 
+ http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.PP.CD?downloadformat=csv
+ 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+ WHO - World Health Organization
+ 
+ UHC - Universal Health Coverage
+ https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-index-of-service-coverage
+ 
+ Population with basic handwashing facilities at home (%)
+ https://www.who.int/data/gho/data/indicators/indicator-details/GHO/population-with-basic-handwashing-facilities-at-home-(-)
+ 
+-------------------------------------------------------------------------------------------------------------------------------------
+ 
+ UNITED NATIONS DEVELOPMENT PROGRAMME - Human Development Reports
+ 
+ http://hdr.undp.org/en/data#
