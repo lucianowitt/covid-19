@@ -6,4 +6,4 @@ As fontes de dados estão no arquivo [data_sources.txt](data_sources.txt).
 
 A construção do dataset para treinamento do modelo estão no notebook [build_dataset.ipynb](build_dataset.ipynb).
 
-O treinamento, validação e teste estão no no notebook [SVR.ipynb](SVR.ipynb).
+O treinamento, validação e teste estão no notebook [SVR.ipynb](SVR.ipynb).
