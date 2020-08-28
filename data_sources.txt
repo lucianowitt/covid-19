@@ -25,9 +25,6 @@
  UHC - Universal Health Coverage
  https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-index-of-service-coverage
  
- Population with basic handwashing facilities at home (%)
- https://www.who.int/data/gho/data/indicators/indicator-details/GHO/population-with-basic-handwashing-facilities-at-home-(-)
- 
 -------------------------------------------------------------------------------------------------------------------------------------
  
  UNITED NATIONS DEVELOPMENT PROGRAMME - Human Development Reports
